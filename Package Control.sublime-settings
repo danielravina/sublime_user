@@ -6,8 +6,10 @@
 		"BracketHighlighter",
 		"ColorPicker",
 		"ColorSchemeSelector",
+		"LoremIpsum",
 		"Nettuts+ Fetch",
 		"Package Control",
+		"TrailingSpaces",
 		"ZenCoding"
 	]
 }
