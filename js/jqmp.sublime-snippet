@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+<div data-role="page" id="${1:}"> 
+    <div data-role="header" data-position="fixed" id="indexheader" >
+        <!-- header -->
+    </div>
+
+    <div data-role="content">
+        <!-- content -->
+    </div>
+
+    <div data-role="footer" data-position="fixed">
+        <!-- footer -->
+    </div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>jqmp</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.html</scope> -->
+</snippet>
