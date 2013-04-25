@@ -1,8 +1,14 @@
 <snippet>
 	<content><![CDATA[
+<<<<<<< HEAD
 function(${1:}){
 	${2:}
 }
+=======
+(function(${1:}) {
+	${2:}
+});
+>>>>>>> ee29038ee5020e2132cca71eeb57affd639845dd
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>af</tabTrigger>
