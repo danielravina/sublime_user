@@ -1,17 +1,16 @@
 {
 	"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
-<<<<<<< HEAD
+
 	"font_size": 14.0,
-=======
+
 	"font_size": 11,
->>>>>>> ee29038ee5020e2132cca71eeb57affd639845dd
+
 	"ignored_packages":
 	[
 		"Vintage"
 	],
-<<<<<<< HEAD
+
 	"scroll_past_end": true,
-=======
->>>>>>> ee29038ee5020e2132cca71eeb57affd639845dd
+
 	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
 }
