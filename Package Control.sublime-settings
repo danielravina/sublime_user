@@ -3,7 +3,7 @@
 	"installed_packages":
 	[
 		"Alignment",
-<<<<<<< HEAD
+
 		"Backbone.js",
 		"BracketHighlighter",
 		"ColorPicker",
@@ -18,7 +18,7 @@
 		"SFTP",
 		"sublime-jslint",
 		"View In Browser",
-=======
+
 		"BracketHighlighter",
 		"ColorPicker",
 		"ColorSchemeSelector",
@@ -26,7 +26,7 @@
 		"Nettuts+ Fetch",
 		"Package Control",
 		"TrailingSpaces",
->>>>>>> ee29038ee5020e2132cca71eeb57affd639845dd
+
 		"ZenCoding"
 	]
 }
