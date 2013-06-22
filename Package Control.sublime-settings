@@ -11,13 +11,36 @@
 		"EJS",
 		"Emmet",
 		"Hex to RGB Converter",
+
+
+		"Backbone.js",
+		"BracketHighlighter",
+		"ColorPicker",
+		"ColorSchemeSelector",
+		"Emmet",
+		"Hex-to-RGBA",
+
 		"Jade",
 		"LoremIpsum",
 		"Nettuts+ Fetch",
 		"Package Control",
+
 		"Ruby on Rails snippets",
 		"Sass",
 		"SFTP",
 		"View In Browser",
+
+		"Sass",
+		"SFTP",
+		"sublime-jslint",
+		"View In Browser",
+
+		"BracketHighlighter",
+		"ColorPicker",
+		"ColorSchemeSelector",
+		"LoremIpsum",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"TrailingSpaces"
 	]
 }
