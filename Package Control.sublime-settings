@@ -1,0 +1,23 @@
+{
+	"auto_upgrade_last_run": null,
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"CoffeeLint",
+		"CoffeeScript",
+		"ColorPicker",
+		"ColorSchemeSelector",
+		"EJS",
+		"Emmet",
+		"Hex to RGB Converter",
+		"Jade",
+		"LoremIpsum",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"Ruby on Rails snippets",
+		"Sass",
+		"SFTP",
+		"View In Browser",
+	]
+}
