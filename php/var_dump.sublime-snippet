@@ -5,9 +5,5 @@ echo '<pre>';var_dump(${1:}); echo '</pre>';
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>var_dump</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-<<<<<<< HEAD
 	<scope>source.php</scope>
-=======
-	<!-- <scope>source.python</scope> -->
->>>>>>> db9afc2ecd4c6dcc0fb9566a58743ef8137919d6
 </snippet>
